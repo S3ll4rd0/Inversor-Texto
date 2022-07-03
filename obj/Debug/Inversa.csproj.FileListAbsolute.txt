@@ -1,0 +1,11 @@
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\bin\Debug\Inversa.exe.config
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\bin\Debug\Inversa.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\bin\Debug\Inversa.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\obj\Debug\Inversa.csproj.AssemblyReference.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\obj\Debug\Inversa.csproj.SuggestedBindingRedirects.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\obj\Debug\Inversa.Form1.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\obj\Debug\Inversa.Properties.Resources.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\obj\Debug\Inversa.csproj.GenerateResource.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\obj\Debug\Inversa.csproj.CoreCompileInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\obj\Debug\Inversa.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Inversa\obj\Debug\Inversa.pdb
